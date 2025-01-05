@@ -1,0 +1,13 @@
+<style>
+    div{
+        background-color: red;
+        color: white;
+        width: 300px;
+        height: 100px;;
+    }
+</style>
+
+<div>
+<h1>Error Macks clever</h1>
+<p style="color: blue;">Pudukkottai, Keeranur</p>
+</div>
