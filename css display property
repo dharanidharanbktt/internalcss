@@ -1,0 +1,25 @@
+<style>
+    h1{
+        background-color: red;
+        display: inline;
+        }
+    p{
+        background-color: purple;
+        display: inline-block;
+        width: 100px;
+        
+    }
+    h2{
+        background-color: blue;
+        display: block;
+    }
+    div{
+        background-color: pink;
+        display: inline;
+    }
+    
+</style>
+<h1>Hello</h1>
+<p>hello</p>
+<h2>hello world</h2>
+<div>how are you</div>
